@@ -32,7 +32,7 @@ if (!isset($_SESSION['root_level'])) {
         <textarea rows="10" cols="41" name="query"></textarea>
         <br>
         <br>
-        <INPUT TYPE="Submit" Name="Sendbutton" VALUE="Send" id="button">
+        <INPUT TYPE="submit" Name="Sendbutton" VALUE="Send" id="button">
     </form>
     <br>
     <a href="rootlogout.php">Sign out</a>

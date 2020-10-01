@@ -4,32 +4,33 @@ html {
     background-image: url(background.jpg);
     background-size: cover;
     background-attachment: fixed;
+    background-position: right 0px bottom 1050px;
 }
 
 a {
     display: block;
-    color: rgb(255, 116, 139);
+    color: rgb(210, 255, 238);
     text-decoration: none;
     font-size: 13px;
     padding: 10px 0px 15px 2px;
 }
 
 body {
-    background: rgba(5, 0, 27, 0.397);
+    background: rgba(36, 22, 7, 0.46);
     background-position: center center;
     width: 295px;
     padding: 50px;
     margin: 70px;
     position: fixed;
-    right: 7%;
+    right: 10%;
 }
 
 #button {
     border: 0;
-    background: #53aec7c9;
+    background: #057236;
     padding: 0.5rem 1rem;
     margin: 1px 0px 0px 0px;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 label {
@@ -43,7 +44,7 @@ input {
 }
 
 p {
-    color: rgb(255, 160, 176);
+    color: rgb(210, 255, 238);
 }
 
 h1 {

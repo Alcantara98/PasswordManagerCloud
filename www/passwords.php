@@ -42,7 +42,7 @@ if (!isset($_SESSION['unique_username'])) {
         <INPUT TYPE="Text" VALUE="" NAME="dpassword">
         <br>
         <br>
-        <INPUT TYPE="Submit" Name="Submit" VALUE="Add" id="button">
+        <INPUT TYPE="submit" Name="Submit" VALUE="Add" id="button">
     </form>
     <?php
     require 'dbconnection.php';
@@ -112,7 +112,7 @@ if (!isset($_SESSION['unique_username'])) {
         <INPUT TYPE="Text" VALUE="" NAME="dusername">
         <br>
         <br>
-        <INPUT TYPE="Submit" Name="Submit" VALUE="Retrieve" id="button">
+        <INPUT TYPE="submit" Name="Submit" VALUE="Retrieve" id="button">
     </form>
     <br>
     <a href="logout.php">Sign out</a>

@@ -4,6 +4,7 @@ html {
     background-image: url(background.jpg);
     background-size: cover;
     background-attachment: fixed;
+    background-position: right 0px bottom -200px;
 }
 
 a {
@@ -15,7 +16,7 @@ a {
 }
 
 body {
-    background: rgba(255, 255, 104, 0.144);
+    background: rgba(25, 102, 63, 0.453);
     background-position: center center;
     width: 312px;
     padding: 50px;
