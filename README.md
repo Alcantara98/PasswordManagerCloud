@@ -5,6 +5,7 @@ A web application that stores a user's passwords.
   Developed to delve into AWS and developing a login system.
   
 ## Technologies
+- HTML
 - PHP
 - SQL
 - AWS EC2
